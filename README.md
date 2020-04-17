@@ -1,7 +1,5 @@
 # hello-world
 
-Hi, Fentaniao!
+Hi, I'm Fentaniao!
 
-I am good enough!
-
-I am learning how to use GitHub by the file.
+Now I am learning how to use GitHub by the file.
