@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi, Fentaniao!
+
+I am good enough!
+
+I am learning how to use GitHub by the file.
